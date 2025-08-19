@@ -1,3 +1,5 @@
+[![Watch the video](https://raw.githubusercontent.com/justin-theodorus/belejar-linkedin-demo/thumbnail.png)](https://raw.githubusercontent.com/justin-theodorus/belejar-linkedin-demo/video demo.mov)
+
 # Belajar LinkedIn Demo - Justin Stevenson Theodorus
 
 Aplikasi web untuk mengelola kelas online, pengguna, dan pendaftaran (enrollments). Aplikasi ini dibuat untuk menyelesaikan Case Assessment Backend Engineer. Semua test API bisa dilakukan melalui web browser untuk mempermudah pengecekkan. Dibuatdengan Next.js 15, React 19, TypeScript, dan Supabase.
