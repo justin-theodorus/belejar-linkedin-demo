@@ -1,4 +1,4 @@
-[![Watch the video](https://raw.githubusercontent.com/justin-theodorus/belejar-linkedin-demo/thumbnail.png)](https://raw.githubusercontent.com/justin-theodorus/belejar-linkedin-demo/video demo.mov)
+[![Watch the video](https://raw.githubusercontent.com/justin-theodorus/belejar-linkedin-demo/thumbnail.png)](https://raw.githubusercontent.com/justin-theodorus/belejar-linkedin-demo/video_demo.mov)
 
 # Belajar LinkedIn Demo - Justin Stevenson Theodorus
 
